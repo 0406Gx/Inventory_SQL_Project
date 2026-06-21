@@ -21,7 +21,7 @@ MySQL、DBeaver、Visio
 | sale | 销售单表 | sale_id | pid |
 
 ### ER关系图
-![ER关系图](./pic/ER.png)
+![ER关系图](./Inventory_SQL_Project/pic/ER.png)
 
 ## 文件说明
 
