@@ -1,6 +1,5 @@
 # Inventory_SQL_Project
 中小型企业进销存 MySQL 数据库设计
-[README.md](https://github.com/user-attachments/files/29172131/README.md)
 # 进销存数据库设计
 
 ## 技术栈
